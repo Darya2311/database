@@ -1,0 +1,84 @@
+{
+  "cards": [
+    {
+      "category": "accessory",
+      "type": "sm",
+      "color": "blue",
+      "price": 30, 
+      "name": "scarf",
+      "rating": 3,
+      "imgUrl": "images/pic1.jpg",
+      "id": 1
+    },
+    {
+      "category": "clothes",
+      "type": "lg",
+      "color": "white",
+      "price": 70, 
+      "name": "shirt",
+      "rating": 3,
+      "imgUrl": "images/pic2.jpg",
+      "id": 2
+    },
+    {
+      "category": "clothes",
+      "type": "lg",
+      "color": "blue",
+      "price": 60, 
+      "name": "shirt",
+      "rating": 4,
+      "imgUrl": "images/pic3.jpg",
+      "id": 3
+    },
+    {
+      "category": "clothes",
+      "type": "md",
+      "color": "blue",
+      "price": 40, 
+      "name": "T-shirt",
+      "rating": 5,
+      "imgUrl": "images/pic4.jpg",
+      "id": 4
+    },
+    {
+     "category": "accessory",
+     "type": "sm",
+     "color": "black",
+     "price": 25, 
+     "name": "Glasses",
+     "rating": 5,
+     "imgUrl": "images/pic5.jpg",
+     "id": 5
+    },
+    {
+      "category": "clothes",
+      "type": "md",
+      "color": "white",
+      "price": 50, 
+      "name": "jumper",
+      "rating": 3,
+      "imgUrl": "images/pic6.jpg",
+      "id": 6
+    },
+    {
+      "category": "footwear",
+      "type": "md",
+      "color": "white",
+      "price": 30, 
+      "name": "sneakers",
+      "rating": 4,
+      "imgUrl": "images/pic7.jpg",
+      "id": 7
+    },
+    {
+      "category": "clothes",
+      "type": "lg",
+      "color": "dark-blue",
+      "price": 55, 
+      "name": "hoodies",
+      "rating": 3,
+      "imgUrl": "images/pic8.jpg",
+      "id": 8
+    }
+  ] 
+}
