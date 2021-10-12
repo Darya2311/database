@@ -80,5 +80,19 @@
       "imgUrl": "images/pic8.jpg",
       "id": 8
     }
+  ],
+  "users": [
+    {
+      "email": "hello@world.ru",
+      "password": "hello"
+    },
+    {
+      "email": "second@world.ru",
+      "password": "hell"
+    },
+    {
+      "email": "first@world.ru",
+      "password": "world"
+    }
   ] 
 }
